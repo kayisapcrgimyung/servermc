@@ -1,0 +1,15 @@
+C:\Users\X240\AppData\Local\Temporary Projects\tugas1db\obj\x86\Debug\tugas1db.Form1.resources
+C:\Users\X240\AppData\Local\Temporary Projects\tugas1db\obj\x86\Debug\tugas1db.Properties.Resources.resources
+C:\Users\X240\AppData\Local\Temporary Projects\tugas1db\obj\x86\Debug\tugas1db.csproj.GenerateResource.Cache
+C:\Users\X240\AppData\Local\Temporary Projects\tugas1db\bin\Debug\tugas1db.exe
+C:\Users\X240\AppData\Local\Temporary Projects\tugas1db\bin\Debug\tugas1db.pdb
+C:\Users\X240\AppData\Local\Temporary Projects\tugas1db\obj\x86\Debug\tugas1db.exe
+C:\Users\X240\AppData\Local\Temporary Projects\tugas1db\obj\x86\Debug\tugas1db.pdb
+C:\Users\X240\documents\visual studio 2010\Projects\tugas1db\tugas1db\obj\x86\Debug\tugas1db.exe
+C:\Users\X240\documents\visual studio 2010\Projects\tugas1db\tugas1db\obj\x86\Debug\tugas1db.pdb
+C:\Users\X240\documents\visual studio 2010\Projects\tugas1db\tugas1db\bin\Debug\tugas1db.exe
+C:\Users\X240\documents\visual studio 2010\Projects\tugas1db\tugas1db\bin\Debug\tugas1db.pdb
+C:\Users\X240\documents\visual studio 2010\Projects\tugas1db\tugas1db\obj\x86\Debug\tugas1db.Form1.resources
+C:\Users\X240\documents\visual studio 2010\Projects\tugas1db\tugas1db\obj\x86\Debug\tugas1db.Properties.Resources.resources
+C:\Users\X240\documents\visual studio 2010\Projects\tugas1db\tugas1db\obj\x86\Debug\tugas1db.csproj.GenerateResource.Cache
+C:\Users\X240\documents\visual studio 2010\Projects\tugas1db\tugas1db\obj\x86\Debug\tugas1db.csprojResolveAssemblyReference.cache
